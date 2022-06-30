@@ -14,6 +14,7 @@ Esto es un código en bloque:
 
 ```python
 # holamundo.py
+# como se comporta esto cuando la línea es tan larga que sobrepasa el ancho
 print("Hello world")
 ```
 
